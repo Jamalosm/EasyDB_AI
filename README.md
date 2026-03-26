@@ -164,17 +164,17 @@ delete user arun
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/home.png" width="800"><br>
+  <img src="assets/home.jpeg" width="800"><br>
   <b>🏠 Home Screen</b>
 </p>
 
 <p align="center">
-  <img src="assets/chat.png" width="800"><br>
+  <img src="assets/chat.jpeg" width="800"><br>
   <b>💬 Chat Interaction</b>
 </p>
 
 <p align="center">
-  <img src="assets/table.png" width="800"><br>
+  <img src="assets/table.jpeg" width="800"><br>
   <b>📊 Table Output</b>
 </p>
 
