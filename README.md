@@ -161,6 +161,27 @@ delete user arun
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/home.png" width="800"><br>
+  <b>🏠 Home Screen</b>
+</p>
+
+<p align="center">
+  <img src="assets/chat.png" width="800"><br>
+  <b>💬 Chat Interaction</b>
+</p>
+
+<p align="center">
+  <img src="assets/table.png" width="800"><br>
+  <b>📊 Table Output</b>
+</p>
+
+
+
+---
+
 ## 🚀 Future Improvements
 
 * 🔥 Streaming Responses (ChatGPT style)
@@ -168,12 +189,6 @@ delete user arun
 * 🔥 Multi-table Schema Support
 * 🔥 Authentication System (JWT)
 * 🔥 Deployment (Docker + Cloud)
-
----
-
-## 📸 Screenshots
-
-*Add your UI screenshots here*
 
 ---
 
